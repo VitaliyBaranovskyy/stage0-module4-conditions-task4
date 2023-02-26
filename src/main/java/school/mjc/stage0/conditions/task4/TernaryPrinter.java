@@ -6,9 +6,9 @@ public class TernaryPrinter {
         
     }
     
-    public static void main (String[] args){
+    public static void main(String[] args){
      TernaryPrinter main = new TernaryPrinter();
-        printWhichIsBigger(17,25);
+        main.printWhichIsBigger(17,25);
         
     }
 }
