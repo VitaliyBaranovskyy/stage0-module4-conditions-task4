@@ -8,7 +8,7 @@ public class TernaryAssignment {
         
     }
     
-    public static void main (String[] args){
+    public static void main(String[] args){
      
          TernaryAssignment main = new TernaryAssignment();
         main.assignAndPrintBasedOnWhichBigger(18,15);
