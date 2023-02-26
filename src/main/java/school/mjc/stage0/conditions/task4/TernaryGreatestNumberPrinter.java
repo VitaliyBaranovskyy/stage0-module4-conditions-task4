@@ -8,7 +8,7 @@ public class TernaryGreatestNumberPrinter {
         
     }
     
-    public static void main (String[] args){
+    public static void main(String[] args){
         TernaryGreatestNumberPrinter main = new TernaryGreatestNumberPrinter();
         main.printGreatest(27,15);
     }
