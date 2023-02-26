@@ -16,7 +16,7 @@ public class MaxNumberPrinter {
         
     }
     
-    public static void main (String[] args) {
+    public static void main(String[] args) {
         MaxNumberPrinter main = new MaxNumberPrinter();
         main.printGreatest(25,17,12);
         
